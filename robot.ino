@@ -1,8 +1,8 @@
-#include "roti.h"
-#include "servo.h"
-#include "ping.h"
-#include "infrared.h"
-#include "music.h"
+#include "roti.hpp"
+#include "servo.hpp"
+#include "ping.hpp"
+#include "infrared.hpp"
+#include "music.hpp"
 
 void setup()
 {
