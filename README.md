@@ -13,7 +13,7 @@ infrared remote and can sing different song like 'Happy Birthday'.
 Project is created in Arduino IDE using different libraries for every type of motor or sensor.
 
 ## Setup
-This code cand be run on Arduino board just if the electrical links are like in the photos below:
+This code cand be run on Arduino board just if the electrical links are like in the photos in Circuit images directory.
 
 
 
