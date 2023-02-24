@@ -1,6 +1,6 @@
 # ROBOT
 
-##Table of contents
+## Table of contents
 * [General info](#general-info)
 * [Tehnologies](#technologies)
 * [Setup](#setup)
