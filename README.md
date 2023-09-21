@@ -44,7 +44,7 @@ To build this project, you will require the following components:
 
 Wheels diagram
 
-![Wheels Diagram](./circuit-images/circuit1.jpg)
+![Wheels Diagram](./Circuit-Images/circuit1.jpg)
 
 Servo diagram
 ![Servo Diagram](./diagrams/servo.png)
